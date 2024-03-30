@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function()
 			years: "March 2023 - Present", 
 			description: //using HTML/CSS elements directly within template literals to bypass styling
 			`
-			Super SOC Analyst.<br>
+			Provide security monitoring and incident handling for over 350 public and private-sector customers in a variety of industry verticals.<br>
 			● Investigate alerts in customer Azure and AWS environments to discover potential security misconfigurations<br>
 			● Monitor and take action on customer endpoints using SentinelOne EDR to proactively block and mitigate threats<br>
 			● Identify excess false positive alerts and document for SOAR team to implement filtering rules in AlienVault SIEM<br>
